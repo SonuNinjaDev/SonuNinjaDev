@@ -1,6 +1,3 @@
-
-Certainly! Here’s a short and effective README template for a GitHub profile, tailored for a web developer:
-
 👋 Hi, I’m [@SonuNinjaDev]
 Welcome to my GitHub profile! I'm a passionate web developer specializing in [mention key skills or technologies, e.g., React, Node.js, Python]. I love building intuitive and responsive web applications that solve real-world problems.
 
